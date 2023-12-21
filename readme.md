@@ -23,7 +23,9 @@ Features:
 - Updates the Intro Script after saving the values in the API.
 - Generates a table based on the result of CodingResources.
 
-Demo: 
+Demo: https://danioropeza.github.io/nobel-assessment/
+
+JIC: The folder /docs contains the code of this exercise as well. We need /docs folder to deploy in GitHub pages.
 
 ## Log Exercise
 
