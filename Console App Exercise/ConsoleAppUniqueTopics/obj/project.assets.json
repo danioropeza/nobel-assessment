@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\ConsoleAppUniqueTopics\\ConsoleAppUniqueTopics.csproj",
+      "projectUniqueName": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\nobel-assessment\\Console App Exercise\\ConsoleAppUniqueTopics\\ConsoleAppUniqueTopics.csproj",
       "projectName": "ConsoleAppUniqueTopics",
-      "projectPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\ConsoleAppUniqueTopics\\ConsoleAppUniqueTopics.csproj",
+      "projectPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\nobel-assessment\\Console App Exercise\\ConsoleAppUniqueTopics\\ConsoleAppUniqueTopics.csproj",
       "packagesPath": "C:\\Users\\daniel.oropeza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\ConsoleAppUniqueTopics\\obj\\",
+      "outputPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\nobel-assessment\\Console App Exercise\\ConsoleAppUniqueTopics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daniel.oropeza\\AppData\\Roaming\\NuGet\\NuGet.Config",

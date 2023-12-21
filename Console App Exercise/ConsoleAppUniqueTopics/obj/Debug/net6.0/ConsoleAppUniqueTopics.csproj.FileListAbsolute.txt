@@ -13,3 +13,18 @@ C:\Users\daniel.oropeza\Documents\Other files\Platzi\ConsoleAppUniqueTopics\obj\
 C:\Users\daniel.oropeza\Documents\Other files\Platzi\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.pdb
 C:\Users\daniel.oropeza\Documents\Other files\Platzi\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.genruntimeconfig.cache
 C:\Users\daniel.oropeza\Documents\Other files\Platzi\ConsoleAppUniqueTopics\obj\Debug\net6.0\ref\ConsoleAppUniqueTopics.dll
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\bin\Debug\net6.0\ConsoleAppUniqueTopics.exe
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\bin\Debug\net6.0\ConsoleAppUniqueTopics.deps.json
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\bin\Debug\net6.0\ConsoleAppUniqueTopics.runtimeconfig.json
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\bin\Debug\net6.0\ConsoleAppUniqueTopics.dll
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\bin\Debug\net6.0\ConsoleAppUniqueTopics.pdb
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.csproj.AssemblyReference.cache
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.AssemblyInfoInputs.cache
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.AssemblyInfo.cs
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.csproj.CoreCompileInputs.cache
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.dll
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\refint\ConsoleAppUniqueTopics.dll
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.pdb
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\ConsoleAppUniqueTopics.genruntimeconfig.cache
+C:\Users\daniel.oropeza\Documents\Other files\Platzi\nobel-assessment\Console App Exercise\ConsoleAppUniqueTopics\obj\Debug\net6.0\ref\ConsoleAppUniqueTopics.dll
