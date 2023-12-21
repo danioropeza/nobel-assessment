@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\ConsoleAppUniqueTopics\\ConsoleAppUniqueTopics.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\ConsoleAppUniqueTopics\\ConsoleAppUniqueTopics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\ConsoleAppUniqueTopics\\ConsoleAppUniqueTopics.csproj",
+        "projectName": "ConsoleAppUniqueTopics",
+        "projectPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\ConsoleAppUniqueTopics\\ConsoleAppUniqueTopics.csproj",
+        "packagesPath": "C:\\Users\\daniel.oropeza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniel.oropeza\\Documents\\Other files\\Platzi\\ConsoleAppUniqueTopics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\daniel.oropeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/incontact-dev/auth/980ea474-4b40-4728-bfaf-485a454e0357/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
